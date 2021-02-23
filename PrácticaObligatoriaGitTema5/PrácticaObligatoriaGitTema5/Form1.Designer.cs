@@ -43,6 +43,7 @@
             this.aluNombre.Name = "aluNombre";
             this.aluNombre.Size = new System.Drawing.Size(263, 20);
             this.aluNombre.TabIndex = 0;
+            this.aluNombre.TextChanged += new System.EventHandler(this.aluNombre_TextChanged);
             // 
             // label1
             // 
@@ -95,6 +96,7 @@
             this.button1.TabIndex = 6;
             this.button1.Text = "Guardar alumnos";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // Form1
             // 
