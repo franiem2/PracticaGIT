@@ -7,3 +7,4 @@ C:\Users\Nero\source\repos\Jimenez21121\PracticaGIT\PrácticaObligatoriaGitTema5
 C:\Users\Nero\source\repos\Jimenez21121\PracticaGIT\PrácticaObligatoriaGitTema5\PrácticaObligatoriaGitTema5\obj\Debug\PrácticaObligatoriaGitTema5.csproj.CoreCompileInputs.cache
 C:\Users\Nero\source\repos\Jimenez21121\PracticaGIT\PrácticaObligatoriaGitTema5\PrácticaObligatoriaGitTema5\obj\Debug\PrácticaObligatoriaGitTema5.exe
 C:\Users\Nero\source\repos\Jimenez21121\PracticaGIT\PrácticaObligatoriaGitTema5\PrácticaObligatoriaGitTema5\obj\Debug\PrácticaObligatoriaGitTema5.pdb
+C:\Users\Nero\source\repos\Jimenez21121\PracticaGIT\PrácticaObligatoriaGitTema5\PrácticaObligatoriaGitTema5\obj\Debug\PrácticaObligatoriaGitTema5.Form1.resources
