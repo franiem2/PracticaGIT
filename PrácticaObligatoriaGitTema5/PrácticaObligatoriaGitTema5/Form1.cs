@@ -19,7 +19,7 @@ namespace PrácticaObligatoriaGitTema5
             InitializeComponent();
         }
 
-        private void aluNombre_TextChanged(object sender, EventArgs e)
+        private void aaluNombre_TextChanged(object sender, EventArgs e)
         {
 
         }
